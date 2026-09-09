@@ -1,0 +1,103 @@
+Order ID,Order Date,Customer ID,Customer Name,Product Name,Category,Region,Quantity,Sales,Profit
+ORD-0001,2025-02-22,CUST-003,Sara Ahmed,Wireless Mouse,Technology,West,1,$37.99,$5.09
+ORD-0002,2025-09-16,CUST-004,Daniel Brown,Pen Set,Office Supplies,West,7,$63.56,$6.39
+ORD-0003,2025-04-23,CUST-007,Lina Hassan,Filing Cabinet,Furniture,South,4,$647.40,$151.68
+ORD-0004,2025-03-23,CUST-013,Hana Yusuf,Pen Set,Office Supplies,South,5,$55.12,$4.49
+ORD-0005,2025-02-22,CUST-006,John Smith,Printer Paper,Office Supplies,West,5,$117.36,$34.10
+ORD-0006,2025-01-23,CUST-005,Maria Garcia,Keyboard,Technology,South,2,$118.77,$18.49
+ORD-0007,2025-05-31,CUST-009,Maya Patel,Filing Cabinet,Furniture,Central,2,$342.98,$56.00
+ORD-0008,2025-05-29,CUST-004,Daniel Brown,Pen Set,Office Supplies,West,4,$43.05,$3.88
+ORD-0009,2025-07-06,CUST-014,Ryan Clark,Desk Lamp,Furniture,East,2,$109.45,$19.67
+ORD-0010,2025-12-16,CUST-015,Layla Ibrahim,Printer Paper,Office Supplies,West,6,$142.86,$19.82
+ORD-0011,2025-07-14,CUST-008,David Wilson,Pen Set,Office Supplies,Central,3,$31.01,$4.15
+ORD-0012,2025-01-29,CUST-013,Hana Yusuf,Filing Cabinet,Furniture,East,4,$642.69,$170.59
+ORD-0013,2025-10-18,CUST-015,Layla Ibrahim,Laptop Stand,Technology,Central,6,$510.15,$48.24
+ORD-0014,2025-03-15,CUST-008,David Wilson,Desk Lamp,Furniture,Central,8,$439.52,$123.59
+ORD-0015,2025-10-27,CUST-012,Sam Lee,Office Chair,Furniture,South,4,$782.10,$155.31
+ORD-0016,2025-09-18,CUST-003,Sara Ahmed,Pen Set,Office Supplies,South,7,$69.33,$20.76
+ORD-0017,2025-12-15,CUST-003,Sara Ahmed,Wireless Mouse,Technology,South,1,$39.03,$4.43
+ORD-0018,2025-09-28,CUST-008,David Wilson,Pen Set,Office Supplies,Central,2,$19.92,$4.21
+ORD-0019,2025-10-02,CUST-015,Layla Ibrahim,Filing Cabinet,Furniture,Central,1,$160.51,$16.89
+ORD-0020,2025-05-15,CUST-001,Aisha Khan,Printer Paper,Office Supplies,East,2,$48.67,$5.59
+ORD-0021,2025-09-17,CUST-011,Nora Williams,Filing Cabinet,Furniture,East,2,$335.29,$48.84
+ORD-0022,2025-09-29,CUST-013,Hana Yusuf,Office Chair,Furniture,West,6,"$1,177.88",$234.00
+ORD-0023,2025-06-07,CUST-006,John Smith,Pen Set,Office Supplies,East,6,$61.33,$6.42
+ORD-0024,2025-09-06,CUST-002,Omar Ali,Laptop Stand,Technology,West,4,$380.63,$109.75
+ORD-0025,2025-03-26,CUST-009,Maya Patel,Filing Cabinet,Furniture,Central,3,$419.44,$77.41
+ORD-0026,2025-12-20,CUST-013,Hana Yusuf,Filing Cabinet,Furniture,East,7,"$1,198.15",$340.71
+ORD-0027,2025-09-22,CUST-008,David Wilson,Notebook,Office Supplies,South,7,$96.50,$21.52
+ORD-0028,2025-10-11,CUST-010,Adam Johnson,Wireless Mouse,Technology,East,4,$133.86,$20.67
+ORD-0029,2025-04-28,CUST-001,Aisha Khan,Pen Set,Office Supplies,West,4,$36.07,$8.50
+ORD-0030,2025-09-06,CUST-011,Nora Williams,Laptop Stand,Technology,East,6,$468.03,$61.95
+ORD-0031,2025-08-31,CUST-010,Adam Johnson,Filing Cabinet,Furniture,East,3,$486.38,$133.33
+ORD-0032,2025-07-01,CUST-007,Lina Hassan,Monitor,Technology,South,7,"$1,591.97",$161.31
+ORD-0033,2025-11-27,CUST-011,Nora Williams,Keyboard,Technology,West,8,$535.66,$49.24
+ORD-0034,2025-05-08,CUST-002,Omar Ali,Laptop Stand,Technology,East,7,$643.82,$164.90
+ORD-0035,2025-05-08,CUST-008,David Wilson,Desk Lamp,Furniture,West,8,$411.42,$49.52
+ORD-0036,2025-01-08,CUST-014,Ryan Clark,Monitor,Technology,West,2,$438.07,$131.35
+ORD-0037,2025-07-25,CUST-014,Ryan Clark,Desk Lamp,Furniture,West,3,$165.26,$30.72
+ORD-0038,2025-08-21,CUST-015,Layla Ibrahim,Office Chair,Furniture,Central,7,"$1,134.68",$188.24
+ORD-0039,2025-10-24,CUST-001,Aisha Khan,Keyboard,Technology,West,8,$450.58,$65.46
+ORD-0040,2025-09-29,CUST-015,Layla Ibrahim,Printer Paper,Office Supplies,East,1,$22.81,$4.22
+ORD-0041,2025-12-12,CUST-002,Omar Ali,Laptop Stand,Technology,East,2,$189.18,$17.99
+ORD-0042,2025-11-01,CUST-010,Adam Johnson,Keyboard,Technology,West,2,$136.25,$27.98
+ORD-0043,2025-06-11,CUST-009,Maya Patel,Pen Set,Office Supplies,Central,2,$20.10,$4.19
+ORD-0044,2025-11-27,CUST-011,Nora Williams,Desk Lamp,Furniture,Central,6,$316.69,$52.91
+ORD-0045,2025-08-23,CUST-001,Aisha Khan,Monitor,Technology,West,6,"$1,630.45",$466.08
+ORD-0046,2025-02-05,CUST-006,John Smith,Wireless Mouse,Technology,East,4,$143.71,$15.68
+ORD-0047,2025-06-04,CUST-012,Sam Lee,Printer Paper,Office Supplies,West,5,$117.43,$30.93
+ORD-0048,2025-03-10,CUST-015,Layla Ibrahim,Filing Cabinet,Furniture,Central,5,$849.70,$87.34
+ORD-0049,2025-11-06,CUST-005,Maria Garcia,Wireless Mouse,Technology,East,2,$75.99,$8.68
+ORD-0050,2025-09-08,CUST-009,Maya Patel,Printer Paper,Office Supplies,Central,4,$107.19,$28.69
+ORD-0051,2025-01-02,CUST-001,Aisha Khan,Laptop Stand,Technology,Central,2,$179.96,$47.23
+ORD-0052,2025-08-07,CUST-012,Sam Lee,Office Chair,Furniture,West,5,$846.36,$149.98
+ORD-0053,2025-10-07,CUST-003,Sara Ahmed,Wireless Mouse,Technology,West,2,$79.54,$18.46
+ORD-0054,2025-01-21,CUST-006,John Smith,Printer Paper,Office Supplies,Central,3,$75.56,$6.74
+ORD-0055,2025-07-28,CUST-009,Maya Patel,Desk Lamp,Furniture,East,4,$234.68,$37.03
+ORD-0056,2025-07-31,CUST-015,Layla Ibrahim,Desk Lamp,Furniture,West,3,$188.77,$48.77
+ORD-0057,2025-05-08,CUST-011,Nora Williams,Office Chair,Furniture,Central,6,"$1,183.24",$201.83
+ORD-0058,2025-04-24,CUST-008,David Wilson,Office Chair,Furniture,East,2,$358.43,$31.73
+ORD-0059,2025-04-25,CUST-004,Daniel Brown,Monitor,Technology,West,6,"$1,405.87",$358.46
+ORD-0060,2025-05-23,CUST-013,Hana Yusuf,Desk Lamp,Furniture,Central,7,$378.10,$102.15
+ORD-0061,2025-01-15,CUST-006,John Smith,Filing Cabinet,Furniture,West,7,"$1,123.37",$298.37
+ORD-0062,2025-02-25,CUST-001,Aisha Khan,Notebook,Office Supplies,South,3,$37.63,$11.15
+ORD-0063,2025-07-17,CUST-002,Omar Ali,Printer Paper,Office Supplies,East,6,$151.36,$44.88
+ORD-0064,2025-10-03,CUST-015,Layla Ibrahim,Notebook,Office Supplies,East,1,$12.93,$1.04
+ORD-0065,2025-11-16,CUST-006,John Smith,Printer Paper,Office Supplies,Central,7,$160.56,$36.31
+ORD-0066,2025-07-26,CUST-006,John Smith,Wireless Mouse,Technology,Central,5,$179.69,$40.74
+ORD-0067,2025-12-13,CUST-007,Lina Hassan,Filing Cabinet,Furniture,East,3,$426.58,$96.53
+ORD-0068,2025-05-27,CUST-005,Maria Garcia,Pen Set,Office Supplies,East,5,$50.08,$13.19
+ORD-0069,2025-09-19,CUST-004,Daniel Brown,Keyboard,Technology,South,6,$365.85,$64.86
+ORD-0070,2025-06-21,CUST-010,Adam Johnson,Office Chair,Furniture,West,2,$349.54,$79.01
+ORD-0071,2025-01-24,CUST-001,Aisha Khan,Desk Lamp,Furniture,East,5,$262.94,$32.55
+ORD-0072,2025-04-10,CUST-010,Adam Johnson,Monitor,Technology,South,2,$486.65,$133.80
+ORD-0073,2025-02-24,CUST-001,Aisha Khan,Monitor,Technology,South,7,"$1,614.47",$362.18
+ORD-0074,2025-01-26,CUST-008,David Wilson,Desk Lamp,Furniture,East,3,$181.67,$42.35
+ORD-0075,2025-10-14,CUST-009,Maya Patel,Wireless Mouse,Technology,Central,8,$261.33,$47.62
+ORD-0076,2025-03-23,CUST-015,Layla Ibrahim,Monitor,Technology,South,7,"$1,860.84",$373.16
+ORD-0077,2025-09-24,CUST-005,Maria Garcia,Monitor,Technology,South,5,"$1,305.53",$345.66
+ORD-0078,2025-05-20,CUST-004,Daniel Brown,Desk Lamp,Furniture,Central,5,$277.74,$65.82
+ORD-0079,2025-03-20,CUST-012,Sam Lee,Printer Paper,Office Supplies,East,2,$46.73,$6.12
+ORD-0080,2025-02-01,CUST-007,Lina Hassan,Wireless Mouse,Technology,East,7,$245.47,$48.94
+ORD-0081,2025-01-11,CUST-012,Sam Lee,Keyboard,Technology,South,7,$473.01,$98.62
+ORD-0082,2025-08-03,CUST-007,Lina Hassan,Monitor,Technology,East,1,$272.56,$39.71
+ORD-0083,2025-06-22,CUST-007,Lina Hassan,Monitor,Technology,South,4,$929.50,$173.67
+ORD-0084,2025-01-14,CUST-009,Maya Patel,Office Chair,Furniture,South,8,"$1,627.03",$481.21
+ORD-0085,2025-08-25,CUST-014,Ryan Clark,Pen Set,Office Supplies,East,1,$9.21,$1.61
+ORD-0086,2025-06-22,CUST-006,John Smith,Laptop Stand,Technology,South,5,$422.78,$53.51
+ORD-0087,2025-10-04,CUST-001,Aisha Khan,Notebook,Office Supplies,West,7,$80.90,$7.93
+ORD-0088,2025-01-21,CUST-011,Nora Williams,Printer Paper,Office Supplies,West,4,$106.25,$26.76
+ORD-0089,2025-03-06,CUST-004,Daniel Brown,Desk Lamp,Furniture,South,4,$244.16,$52.91
+ORD-0090,2025-03-27,CUST-006,John Smith,Wireless Mouse,Technology,West,4,$142.28,$19.40
+ORD-0091,2025-10-22,CUST-005,Maria Garcia,Office Chair,Furniture,South,5,$834.32,$71.46
+ORD-0092,2025-05-05,CUST-011,Nora Williams,Keyboard,Technology,West,4,$220.56,$51.16
+ORD-0093,2025-06-27,CUST-001,Aisha Khan,Notebook,Office Supplies,South,2,$26.38,$5.39
+ORD-0094,2025-08-04,CUST-014,Ryan Clark,Printer Paper,Office Supplies,South,2,$51.32,$7.96
+ORD-0095,2025-08-24,CUST-014,Ryan Clark,Wireless Mouse,Technology,East,7,$279.35,$61.41
+ORD-0096,2025-11-12,CUST-005,Maria Garcia,Keyboard,Technology,South,3,$195.02,$57.02
+ORD-0097,2025-05-06,CUST-006,John Smith,Monitor,Technology,West,7,"$1,858.81",$390.99
+ORD-0098,2025-12-09,CUST-010,Adam Johnson,Notebook,Office Supplies,South,8,$92.25,$16.81
+ORD-0099,2025-04-19,CUST-008,David Wilson,Printer Paper,Office Supplies,Central,1,$25.59,$3.88
+ORD-0100,2025-05-22,CUST-015,Layla Ibrahim,Notebook,Office Supplies,West,6,$69.83,$14.74
+,,,,,,,,"$40,488.57","$8,304.71"
+,,,,,,,,$404.89,$0.21
